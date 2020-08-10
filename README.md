@@ -2,6 +2,8 @@
   
 # Forum-App-with-React-ReduxObservables.
 
+![Alt text](relative/path/to/img.jpg?raw=true "Forum Image")
+
 ## Getting Started
 
 1. Clone this repo
